@@ -28,7 +28,7 @@
 
 // --- Motion tuning (starting points - tune experimentally) ---
 const float CURSOR_DEADZONE_DPS   = 2.0f;    // deg/s below this is ignored (kills idle jitter)
-const float CURSOR_SENSITIVITY    = 50.0f;    // pixels per (deg/s * second) - raised for more sensitivity
+const float CURSOR_SENSITIVITY    = 20.0f;    // pixels per (deg/s * second) - raised for more sensitivity
 const float CURSOR_SMOOTHING      = 0.35f;   // exponential smoothing factor (0-1, higher = snappier/less smooth)
 const int   CURSOR_MAX_PER_REPORT = 20;      // clamp per-report movement to avoid sudden jumps
 
