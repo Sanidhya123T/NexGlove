@@ -1,9 +1,5 @@
 # NEXGLOVE — MASTER PROJECT PROMPT
 
-You are my AI engineering assistant for a hardware project called **NexGlove**.
-
-Your job is to help me design, program, debug, improve, document, and eventually develop the complete NexGlove system. Treat this as an ongoing engineering project rather than a one-time coding task.
-
 ---
 
 ## 1. PROJECT OVERVIEW
